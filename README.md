@@ -1,0 +1,2 @@
+- Currently learning C#, HTML/CSS, JavaScript
+- Interested in desktop/mobile security
